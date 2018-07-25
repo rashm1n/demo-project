@@ -1,0 +1,8 @@
+lower,low,higher,high,between
+lower,low,more than,high,between
+not more than,lowest,above,highest,
+below,,higher than,,
+lower than,,not lower than,,
+not higher than,,greater than,,
+not greater than,,not less than,,
+less than,,,,
